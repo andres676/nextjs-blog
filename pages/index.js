@@ -12,7 +12,7 @@ return(
       <title>{siteTitle}</title>
     </Head>
     <section className={utilStyles.headingMd}>      
-      <p>Hello, I'm Andrés Ramos. I'm a web developer. Want to implement your business on the Web, you can contact me <a href='https://andres676.github.io/CV-CoverLetter/' target={'_blank'}>here</a></p>
+      <p>Hello, I'm Andrés Ramos. I'm a web developer. Want to implement your business on the Web, you can contact me <a href='https://andres676.github.io/cv-andres/' target={'_blank'}>here</a></p>
       <p>
         (This is a sample website - you'll be buildding a site like this on {' '}
         <a href='https://nextjs.org/learn' target={'_blank'}>our Next.js tutorial</a>.) 
